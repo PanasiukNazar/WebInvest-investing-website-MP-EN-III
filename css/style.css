@@ -2929,6 +2929,9 @@ h3 {
 
 /* line 26, ../../Arafath/CL/Cl November/226. Construction/HTML/scss/_service.scss */
 .service_area .single_service .thumb img {
+    height: 300px;
+    width: 100%;
+    object-fit: cover;
     -webkit-transform: scale(1);
     -moz-transform: scale(1);
     -ms-transform: scale(1);
